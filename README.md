@@ -7,5 +7,7 @@ Find all 3 computers with weather information before the broadcast starts.
 Play on 1920x1080 for best results.
 WASD to move, L to select, Escape to quit
 
+Itch Link: https://danielgallagher.itch.io/wacky-weather
+
 Trailer:
 https://youtu.be/4ABbh9_uxqk
